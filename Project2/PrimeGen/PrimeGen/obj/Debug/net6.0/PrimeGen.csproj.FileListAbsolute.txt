@@ -1,0 +1,15 @@
+D:\RIT\Summer 2022\CSCI 251\Project2\PrimeGen\PrimeGen\bin\Debug\net6.0\PrimeGen.exe
+D:\RIT\Summer 2022\CSCI 251\Project2\PrimeGen\PrimeGen\bin\Debug\net6.0\PrimeGen.deps.json
+D:\RIT\Summer 2022\CSCI 251\Project2\PrimeGen\PrimeGen\bin\Debug\net6.0\PrimeGen.runtimeconfig.json
+D:\RIT\Summer 2022\CSCI 251\Project2\PrimeGen\PrimeGen\bin\Debug\net6.0\PrimeGen.dll
+D:\RIT\Summer 2022\CSCI 251\Project2\PrimeGen\PrimeGen\bin\Debug\net6.0\PrimeGen.pdb
+D:\RIT\Summer 2022\CSCI 251\Project2\PrimeGen\PrimeGen\obj\Debug\net6.0\PrimeGen.csproj.AssemblyReference.cache
+D:\RIT\Summer 2022\CSCI 251\Project2\PrimeGen\PrimeGen\obj\Debug\net6.0\PrimeGen.GeneratedMSBuildEditorConfig.editorconfig
+D:\RIT\Summer 2022\CSCI 251\Project2\PrimeGen\PrimeGen\obj\Debug\net6.0\PrimeGen.AssemblyInfoInputs.cache
+D:\RIT\Summer 2022\CSCI 251\Project2\PrimeGen\PrimeGen\obj\Debug\net6.0\PrimeGen.AssemblyInfo.cs
+D:\RIT\Summer 2022\CSCI 251\Project2\PrimeGen\PrimeGen\obj\Debug\net6.0\PrimeGen.csproj.CoreCompileInputs.cache
+D:\RIT\Summer 2022\CSCI 251\Project2\PrimeGen\PrimeGen\obj\Debug\net6.0\PrimeGen.dll
+D:\RIT\Summer 2022\CSCI 251\Project2\PrimeGen\PrimeGen\obj\Debug\net6.0\refint\PrimeGen.dll
+D:\RIT\Summer 2022\CSCI 251\Project2\PrimeGen\PrimeGen\obj\Debug\net6.0\PrimeGen.pdb
+D:\RIT\Summer 2022\CSCI 251\Project2\PrimeGen\PrimeGen\obj\Debug\net6.0\PrimeGen.genruntimeconfig.cache
+D:\RIT\Summer 2022\CSCI 251\Project2\PrimeGen\PrimeGen\obj\Debug\net6.0\ref\PrimeGen.dll
